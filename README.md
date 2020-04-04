@@ -1,3 +1,7 @@
+# How to use my project
+So my program has to be compiled and run in a IDE to be used. Otherwise the program explains
+how to use itself.
+
 # 2020 Hackathon
 
 > **Date**: Saturday, April 4th, 2020
